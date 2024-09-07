@@ -3,7 +3,7 @@ These are Macro and VBA projects completed in Excel. This exercise consists of 7
 
 **Project #1 :-**
 **Inseting and formatting text using Macro**
-Objective of the task is :- 
--To automate repetitive task of formatting tables and adding header using Macro.
--Adding a button to  use the Macro.
--Creating a custom button using Excel shapes.
+  Objective:- 
+  -To automate repetitive task of formatting tables and adding header using Macro.
+  -Adding a button to  use the Macro.
+  -Creating a custom button using Excel shapes.
