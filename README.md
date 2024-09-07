@@ -11,7 +11,18 @@ These are Macro and VBA projects completed in Excel. This exercise consists of 7
   **Project #2 :-** <br />
   **Preparing and Cleaning Data with Excel VBA** <br />
   Objective:- <br />
-  * Use Macro to format and add header to tables.
-  * Use Excel VBA code to loop the created Macro through all worksheets.
+  * Use Macro to format and add header to tables. <br />
+  * Use Excel VBA code to loop the created Macro through all worksheets. <br />
+
+  **Project #3 :-** <br />
+  **Using VBA to automate Excel Formulas** <br />
+  Objective:- <br />
+  * Automate SUM() function in Excel Worksheets. <br />
+  * Loop the SUM() function over multiple worksheets. <br />
+
+  
+
+
+  
   
   
