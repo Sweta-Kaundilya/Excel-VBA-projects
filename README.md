@@ -21,6 +21,12 @@ These are Macro and VBA projects completed in Excel. This exercise consists of 7
   * Loop the SUM() function over multiple worksheets. <br />
 
   **Project #4 :-** <br />
+  **Interacting with the User to Sort a list** <br />
+  Objective:- <br />
+  * Usin Excel VBA Range.Sort method. <br />
+  * Prompting the user for information. <br />
+  * Using Excel VBA error control statements. <br />
+  * Create a button to run the sort procedure. <br />
   
 
   
