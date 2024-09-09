@@ -29,6 +29,13 @@ These are Macro and VBA projects completed in Excel. This exercise consists of 7
   * Create a button to run the sort procedure. <br />
 
   **Project #5 :-** <br />
+  **Combining multiple sheets to form a weekly report using Excel VBA loop** <br />
+  Objective:- <br />
+  * Copying content with excel VBA from different worksheets.
+  * Pasting content with excel VBA in final report.
+  * Adding logic to stop the loop from running multiple times on a worksheet.
+    
+    
   
   
 
