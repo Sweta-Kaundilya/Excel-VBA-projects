@@ -38,7 +38,7 @@ These are Macro and VBA projects completed in Excel. This exercise consists of 7
   **Project #6 :-** <br />
   **Importing data from text file** <br />
   Objective:- <br />
-  * Importing multiple text files with the GetOpen filename method. <br />
+  * Importing multiple text files with the GetOpenFilename method. <br />
   * Creating a loop to read each file. <br />
   * Adding a new sheet for imported data. <br />
   * Working with the ScreenUpdating property. <br />
