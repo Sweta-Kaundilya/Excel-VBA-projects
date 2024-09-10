@@ -43,6 +43,18 @@ These are Macro and VBA projects completed in Excel. This exercise consists of 7
   * Adding a new sheet for imported data. <br />
   * Working with the ScreenUpdating property. <br />
 
+  **Project #7 :-** <br />
+  **Working with Excel VBA User Forms** <br />
+  Objective:- <br />
+  * Creating an Excel User Form. <br />
+  * Working with Form and Control properties. <br />
+  * Adding VBA code to intialize even. <br />
+  * Using an AddItem method within a loop. <br />
+  * Adding VBA code to the ComboBox change event. <br />
+  * Adding VBA code to the Add Worksheet Button. <br />
+  * Handling error. <br />
+  * Displaying User Form on opening of workbook.<br />
+
   
     
     
