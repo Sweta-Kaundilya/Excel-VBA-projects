@@ -34,6 +34,16 @@ These are Macro and VBA projects completed in Excel. This exercise consists of 7
   * Copying content with excel VBA from different worksheets.
   * Pasting content with excel VBA in final report.
   * Adding logic to stop the loop from running multiple times on a worksheet.
+
+  **Project #6 :-** <br />
+  **Importing data from text file** <br />
+  Objective:- <br />
+  * Importing multiple text files with the GetOpen filename method. <br />
+  * Creating a loop to read each file. <br />
+  * Adding a new sheet for imported data. <br />
+  * Working with the ScreenUpdating property. <br />
+
+  
     
     
   
